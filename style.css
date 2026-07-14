@@ -4,13 +4,13 @@ body {
     line-height: 1.6; /* ระยะห่างระหว่างบรรทัดเพื่อให้ง่ายต่อการอ่าน */
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4; /* สีพื้นหลังของเว็บ */
+    background-color: #FFB7B2; /* สีพื้นหลังของเว็บ */
     color: #333; /* สีตัวอักษรหลัก */
 }
 
 /* 2. ส่วนหัว (header) */
 header {
-    background: #4CAF50; /* สีพื้นหลังของส่วนหัว */
+    background: #FFB7B2; /* สีพื้นหลังของส่วนหัว */
     color: white; /* สีข้อความ */
     padding: 20px 0; /* ระยะห่างด้านบนและล่าง */
     text-align: center; /* จัดข้อความกึ่งกลาง */
@@ -36,7 +36,7 @@ section {
 
 /* 4. หัวข้อ (h2) */
 h2 {
-    color: #4CAF50; /* สีของหัวข้อ */
+    color: #9400D3; /* สีของหัวข้อ */
 }
 
 /* 5. ส่วนแสดงโปรเจกต์ (.project) */
@@ -59,7 +59,7 @@ ul {
 footer {
     text-align: center;
     padding: 10px 0;
-    background: #333; /* สีพื้นหลังเข้ม */
+    background:#FFDAC1; /* สีพื้นหลังเข้ม */
     color: white;
     margin-top: 20px;
 }
